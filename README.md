@@ -1,1 +1,3 @@
 # Movie-Recommendation
+
+Designed a movie recommendation system using Python in  NGoogle Colab. Leveraged cosine similarity to analyze and compare movie titles based on user ratings. Designed and implemented a data processing pipeline to merge and preprocess datasets, ensuring accurate recommendations. Created an interactive interface for users to input a movie title and receive tailored suggestions. Utilized CountVectorizer from scikit-learn to facilitate similarity calculations. The project demonstrates advanced Python programming and machine learning techniques to enhance user experience in discovering new movies.
